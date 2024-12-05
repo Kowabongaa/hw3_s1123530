@@ -1,4 +1,5 @@
 # hw3_s1123530
+https://github.com/Kowabongaa/hw3_s1123530
 for question one, enter edge one by one and enter every edge input.
 
 Question: 1

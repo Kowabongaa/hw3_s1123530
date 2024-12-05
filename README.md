@@ -1,6 +1,6 @@
 # hw3_s1123530
 https://github.com/Kowabongaa/hw3_s1123530
-for question one, enter edge one by one and enter every edge input.
+for question one and 2, enter edge one by one and enter every edge input.
 
 Question: 1
 Given an undirected graph with V nodes and E edges, create and return an adjacency list of the graph. 0-based indexing is followed everywhere.
